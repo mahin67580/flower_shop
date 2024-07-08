@@ -77,6 +77,24 @@ header {
     margin-top: 30px;
     margin-left: 210px;
 }
+.primary_button_2:hover {
+    background-color: #3e8e41
+}
+
+.primary_button_2:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+.primary_button:hover {
+    background-color: #3e8e41
+}
+
+.primary_button:active {
+    background-color: #3e8e419d;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
 
 .section_one {
     width: 594px;
